@@ -1,0 +1,5 @@
+{
+  "name": "Spndr",
+  "description": "A natural language spending tracker with budget alerts and anomaly detection.",
+  "requestFramePermissions": []
+}
